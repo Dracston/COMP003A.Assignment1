@@ -2,6 +2,7 @@
  * Author:      Logan Jones
  * Course:      COMP-003A-L01
  * Purpose:     Code for Assingment 1
+ * 
  */
 namespace COMP003A.Assignment1
 {
